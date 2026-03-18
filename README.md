@@ -8,6 +8,8 @@ Multi-Agent 기반의 두 기업(LGES, CATL)의 전기차 캐즘 극복 전략 �
 - **Method** : 100페이지 분량의 전문 문서와 실시간 웹 데이터를 결합한 Agentic RAG 워크플로우를 활용
 - **Tools** : LangGraph, Python, GPT-4o-mini, BGE-M3, SerpApi
 
+최종 Output 보고서: `report/final_report.pdf`
+
 ---
 
 ## Features
